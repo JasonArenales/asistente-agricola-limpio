@@ -45,3 +45,13 @@ footer {
   font-size: 0.9rem;
   background-color: #e0e0e0;
 }
+
+#contenedorImagenes {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    display: block; /* Asegura que se muestre */
+}
+#vistaPrevia {
+    max-width: 300px;
+}
